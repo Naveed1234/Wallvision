@@ -1,328 +1,983 @@
 [
     {
-    "name": "Wallpaper_01",
+    "name": "Ai Wallpaper_01",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_01.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_01.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI,featured,landscapes"
+},
+{
+    "name": "Ai Wallpaper_02",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_02.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_02.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+}, 
+ {
+    "name": "Ai Wallpaper_03",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_03.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_03.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_04",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_04.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_04.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_05",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_05.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_05.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_06",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_06.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_06.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_07",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_07.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_07.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_08",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_08.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_08.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_09",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_09.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_09.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_10",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_10.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_11",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_11.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_12",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_12.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_13",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_13.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_13.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_14",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_14.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_15",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_15.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_16",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_16.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_17",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_17.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_18",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_18.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_19",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_19.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_20",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_20.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_21",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_21.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_21.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+},
+{
+    "name": "Ai Wallpaper_22",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_22.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Ai_22.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "AI"
+}, 
+ {
+    "name": "Birds & Animals Wallpaper_01",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_01.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_01.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_02",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_02.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_02.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_03",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_03.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_03.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_04",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_04.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_04.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_05",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_05.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_05.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_06",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_06.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_06.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_07",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_07.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_07.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_08",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_08.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_08.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_09",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_09.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_09.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_10",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_10.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_11",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_11.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_12",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_12.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_13",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_13.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_13.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_14",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_14.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_15",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_15.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_16",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_16.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_17",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_17.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_18",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_18.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_19",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_19.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_20",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_20.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+}, 
+ {
+    "name": "Birds & Animals Wallpaper_21",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_21.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_21.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Birds & Animals Wallpaper_22",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_22.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_B%26A_22.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Birds_Animals"
+},
+{
+    "name": "Flower Wallpaper_01",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_01.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_01.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
     "collections": "followers"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Flower Wallpaper_02",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_02.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_02.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_03",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_03.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_03.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_04",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_04.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_04.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_05",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_05.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_05.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_06",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_06.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_06.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_07",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_07.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_07.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_08",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_08.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_08.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_09",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_09.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_09.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_10",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_10.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_11",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_11.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_12",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_12.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_13",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_13.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_13.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_14",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_14.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_15",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_15.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_16",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_16.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_17",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_17.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "followers"
+},
+{
+    "name": "Flower Wallpaper_18",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_18.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
     "collections": "followers"
 }, 
  {
-    "name": "Wallpaper_01",
+    "name": "Flower Wallpaper_19",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_19.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
     "collections": "followers"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Flower Wallpaper_20",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Flowers_20.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
     "collections": "followers"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_01",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_01.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_01.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_02",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_02.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_02.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_03",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_03.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_03.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_04",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_04.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_04.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_05",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_05.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_05.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_06",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_06.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_06.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_07",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_07.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_07.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_08",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_08.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_08.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_09",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_09.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_09.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_10",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_10.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_11",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_11.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_12",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_12.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_13",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_13.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_13.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_14",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_14.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_15",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_15.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
+    "collections": "Nature"
 },
 {
-    "name": "Wallpaper_01",
+    "name": "Nature Wallpaper_16",
     "author": "Zainab Fiaz",
-    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
-    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/Wallpaper_01.png",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_16.png",
     "dimensions": "1440×2560",
     "copyright": "zainab",
-    "collections": "followers"
-},
-{
-    "name": "ShotA",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-    "dimensions": "1440×2560",
-    "collections": "featured,landscapes,people"
-},
-{
-    "name": "ShotB",
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-    "dimensions": "1440×2560",
-    "collections": "people,city",
-    "downloadable": false
-},
-{
-    "author": "Someone",
-    "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-    "name": "ShotC",
-    "dimensions": "1440×2560",
-    "copyright": "Credits to its creator",
-    "collections": "landscapes,city"
-},
-{
-    "name": "Wallsplash 1",
-    "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes,people,city",
-    "featured": true
-},
-{
-    "name": "Wallsplash 2",
-    "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes,people,food"
-},
-{
-    "name": "Wallsplash 3",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-    "thumbnail": "https://via.placeholder.com/450",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,food,people"
-},
-{
-    "name": "Wallsplash 4",
-    "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "landscapes,people,city"
-},
-{
-    "name": "Wallsplash 5",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,landscapes"
-},
-{
-    "name": "Wallsplash 6",
-    "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "featured,people"
-},
-{
-    "name": "Wallsplash 7",
-    "author": "wallsplash",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-    "thumbnail": "https://via.placeholder.com/500",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "landscapes,people"
-},
-{
-    "name": "Wallsplash 8",
-    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "1440×2560",
-
-    "copyright": "Free (do whatever you want)",
-    "collections": "food"
-},
-{
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://www.gstatic.com/webp/gallery/4.webp",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "1440×2560",
-    "copyright": "Unknown",
-    "collections": "landscapes"
-},
-{
-    "name": "Halloween 1",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=david-menidrey-MYRG0ptGh50-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "halloween"
-},
-{
-    "name": "New Halloween",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "halloween, new year"
-},
-{
-    "name": "New Year",
-    "author": "wallsplash",
-    "url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-    "thumbnail": "https://via.placeholder.com/150",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "new year, new"
-},
-{
-    "name": "Annie from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/annie.jpg",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
-},
-{
-    "name": "Neom from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/wallpapers/neom.jpg",
-    "dimensions": "1440×2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
+    "collections": "Nature"
 }
+,
+{
+    "name": "Nature Wallpaper_17",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_17.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Nature"
+}
+,
+{
+    "name": "Nature Wallpaper_18",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_18.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Nature"
+}
+,
+{
+    "name": "Nature Wallpaper_19",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_19.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Nature"
+}
+,
+{
+    "name": "Nature Wallpaper_20",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_20.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Nature"
+}
+,
+{
+    "name": "Nature Wallpaper_21",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_21.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Nature_21.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Nature"
+}
+,
+{
+    "name": "Vehicle Wallpaper_01",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_01.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_01.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_02",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_02.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_02.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_03",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_03.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_03.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_04",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_04.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_04.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_05",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_05.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_05.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_06",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_06.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_06.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_07",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_07.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_07.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_08",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_08.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_08.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_09",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_09.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_09.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_10",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_10.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_11",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_11.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_12",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_12.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_14",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_14.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_15",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_15.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_16",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_16.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_17",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_17.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_18",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_18.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_19",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_19.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_20",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_20.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_21",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_21.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_21.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+,
+{
+    "name": "Vehicle Wallpaper_22",
+    "author": "Zainab Fiaz",
+    "url": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_22.png",
+    "thumbnail": "https://raw.githubusercontent.com/Naveed1234/Wallvision/main/Images/WV_Vehicle_22.png",
+    "dimensions": "1440×2560",
+    "copyright": "zainab",
+    "collections": "Vehicles"
+}
+
 ]
